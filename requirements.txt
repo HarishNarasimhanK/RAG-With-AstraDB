@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-groq
+cassio
+datasets 
+tiktoken
+ipykernel
+streamlit
+langchain-huggingface
+langchain-community
+PyPDF2
